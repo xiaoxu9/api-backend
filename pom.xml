@@ -9,10 +9,10 @@
         <version>2.7.0</version>
         <relativePath/> <!-- lookup parent from repository -->
     </parent>
-    <groupId>com.yupi</groupId>
-    <artifactId>springboot-init</artifactId>
+    <groupId>cn.xiaoxu</groupId>
+    <artifactId>api-backend</artifactId>
     <version>0.0.1-SNAPSHOT</version>
-    <name>springboot-init</name>
+    <name>api-backend</name>
     <description>springboot 初始项目</description>
     <properties>
         <java.version>1.8</java.version>
